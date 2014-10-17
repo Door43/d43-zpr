@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpr:home|Door43 (zpr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpr|d43-zpr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpr/archive/master.zip|d43-zpr.zip]]
+
+**Recent Changes**
+{{changes>ns = zpr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpr|Ethnologue data]]
+
